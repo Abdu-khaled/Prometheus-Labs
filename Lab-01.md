@@ -128,6 +128,6 @@ ___
 
 ##  Monitor running containers on different server than prometheus one 
 
-<img src=" screenshots/pro6.png" alt="Alt text" width="600">
+<img src="screenshots/pro6.png" alt="Alt text" width="600">
 
 <img src="screenshots/pro8.png" alt="Alt text" width="600" >
