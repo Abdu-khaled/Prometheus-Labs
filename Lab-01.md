@@ -111,23 +111,23 @@ A Histogram measures the distribution of values by breaking them into buckets. I
 
   ## 4. Install prometheus on your localhost or on server in any cloud provider 
 
-<img src="image/pro1.png" alt="Alt text" width="600">
+<img src="screenshots/pro1.png" alt="Alt text" width="600">
 
-<img src="image/pro2.png" alt="Alt text" width="500" >
+<img src="screenshots/pro2.png" alt="Alt text" width="500" >
 
 
 ---
  ## 5. Add any new target to prometheus.yaml  file to monitor different server and run any query on it using promql langauge 
 
-<img src=" image/pro4.png" alt="Alt text" width="600">
+<img src=" screenshots/pro4.png" alt="Alt text" width="600">
 
-<img src=" image/pro5.png" alt="Alt text" width="600" >
+<img src=" screenshots/pro5.png" alt="Alt text" width="600" >
 
 
 ___
 
 ##  Monitor running containers on different server than prometheus one 
 
-<img src=" image/pro6.png" alt="Alt text" width="600">
+<img src=" screenshots/pro6.png" alt="Alt text" width="600">
 
-<img src="image/pro8.png" alt="Alt text" width="600" >
+<img src="screenshots/pro8.png" alt="Alt text" width="600" >
