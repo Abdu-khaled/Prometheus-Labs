@@ -119,9 +119,9 @@ A Histogram measures the distribution of values by breaking them into buckets. I
 ---
  ## 5. Add any new target to prometheus.yaml  file to monitor different server and run any query on it using promql langauge 
 
-<img src=" screenshots/pro4.png" alt="Alt text" width="600">
+<img src="screenshots/pro4.png" alt="Alt text" width="600">
 
-<img src=" screenshots/pro5.png" alt="Alt text" width="600" >
+<img src="screenshots/pro5.png" alt="Alt text" width="600" >
 
 
 ___
